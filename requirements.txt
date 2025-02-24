@@ -1,0 +1,6 @@
+PyMuPDF
+pyttsx3
+bark
+scipy
+tflite_runtime
+PyQt5

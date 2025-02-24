@@ -1,0 +1,27 @@
+
+# Ignore virtual environment
+venv/
+audiobook-app/Lib/
+audiobook-app/Scripts/
+audiobook-app/Include/
+
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+#Ignore this file
+models/
+*.tflite
+audiobook-app/Lib/
+
+# Ignore virtual environment
+audiobook-app/
+
+
