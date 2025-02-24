@@ -38,6 +38,10 @@ python -m venv audiobook-app
 cd audiobook-app
 Scripts\activate  # For Windows
 
+🔹 4. Setup Models : Since GitHub does not support files larger than 100MB, you need to manually download and place the model in the correct folder.
+📂 Create a models folder: mkdir models
+⬇️ Download Model from Qualcomm AI Hub : Download the Whisper Base English Model from the link below and place it inside the models folder:https://aihub.qualcomm.com/compute/models/whisper_base_en?domain=Audio
+
 4️⃣ Install Dependencies
 
 pip install -r requirements.txt
